@@ -1,0 +1,1 @@
+# pattern-wise-word-printer
